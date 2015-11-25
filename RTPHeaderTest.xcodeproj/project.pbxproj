@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		65A1670D1C05074700F62F0B /* RTPHeaderTest */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = RTPHeaderTest; sourceTree = BUILT_PRODUCTS_DIR; };
 		65A167101C05074700F62F0B /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		65A167171C05135000F62F0B /* RtpHeaders.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = RtpHeaders.h; path = RTPHeaderTest/RtpHeaders.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,6 +42,7 @@
 		65A167041C05074700F62F0B = {
 			isa = PBXGroup;
 			children = (
+				65A167171C05135000F62F0B /* RtpHeaders.h */,
 				65A1670F1C05074700F62F0B /* RTPHeaderTest */,
 				65A1670E1C05074700F62F0B /* Products */,
 			);
